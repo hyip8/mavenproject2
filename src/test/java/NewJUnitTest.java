@@ -48,6 +48,6 @@ public class NewJUnitTest {
     @Test
     public void test1() {
         assert(fib.fib(0) == 0);
-        assert(fib.fib(5) == 7);
+        assert(fib.fib(5) == 8);
     }
 }
