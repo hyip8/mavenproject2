@@ -49,5 +49,6 @@ public class NewJUnitTest {
     public void test1() {
         assert(fib.fib(0) == 0);
         assert(fib.fib(5) == 8);
+        assert(fib.fib(4) == 5);
     }
 }
