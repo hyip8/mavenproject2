@@ -6,7 +6,6 @@
 package com.mycompany.mavenproject2;
 
 /**
- *
  * @author Henry Yip
  */
 public class Fib {
